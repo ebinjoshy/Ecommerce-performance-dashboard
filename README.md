@@ -124,11 +124,10 @@ This project showcases:
 
 
 Example:
-```
+
 ## Dashboard Preview
 
 ![Dashboard Preview](Dashboard.png)
-```
 
 ---
 
