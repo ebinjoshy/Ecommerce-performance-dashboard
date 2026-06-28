@@ -121,11 +121,11 @@ This project showcases:
 
 ## Dashboard Preview
 
-*Add dashboard screenshot here*
+
 
 Example:
 ```
-/images/dashboard.png
+[/images/dashboard.png](https://github.com/ebinjoshy/Ecommerce-performance-dashboard/blob/main/Dashboard_screenshot.png)
 ```
 
 ---
@@ -143,5 +143,5 @@ Potential enhancements:
 
 ## Author
 
-**[Your Name]**
+**[Ebin Joshy]**
 Aspiring Data Analyst | Excel | SQL | Python | Data Visualization
