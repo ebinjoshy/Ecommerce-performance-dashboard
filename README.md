@@ -121,12 +121,6 @@ This project showcases:
 
 ## Dashboard Preview
 
-
-
-Example:
-
-## Dashboard Preview
-
 ![Dashboard Preview](Dashboard.png)
 
 ---
