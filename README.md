@@ -125,7 +125,7 @@ This project showcases:
 
 Example:
 ```
-[/images/dashboard.png](https://github.com/ebinjoshy/Ecommerce-performance-dashboard/blob/main/Dashboard_screenshot.png)
+https://github.com/ebinjoshy/Ecommerce-performance-dashboard/blob/main/Dashboard_screenshot.png
 ```
 
 ---
