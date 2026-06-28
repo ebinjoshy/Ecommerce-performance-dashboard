@@ -125,7 +125,9 @@ This project showcases:
 
 Example:
 ```
-https://github.com/ebinjoshy/Ecommerce-performance-dashboard/blob/main/Dashboard_screenshot.png
+## Dashboard Preview
+
+![Dashboard Preview](Dashboard_screenshot.png)
 ```
 
 ---
