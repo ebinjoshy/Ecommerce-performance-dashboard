@@ -127,7 +127,7 @@ Example:
 ```
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_screenshot.png)
+![Dashboard Preview](Dashboard.png)
 ```
 
 ---
